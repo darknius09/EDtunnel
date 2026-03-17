@@ -1,6 +1,6 @@
-name = "sgdoo"
+name = "sgdok"
 main = "_worker.js"
-compatibility_date = "2027-05-26"
+compatibility_date = "2025-05-26"
 # node_compat = true
 workers_dev = true
 
