@@ -1,11 +1,11 @@
-name = "cf-worker-ws-dev"
+name = "SGDO"
 main = "_worker.js"
-compatibility_date = "2023-05-26"
+compatibility_date = "2027-05-26"
 # node_compat = true
 workers_dev = true
 
 [vars]
-# PROXYIP = "211.230.110.231:50008"
-UUID = "1b6c1745-992e-4aac-8685-266c090e50ea"
+PROXYIP = "178.128.80.43:443"
+UUID = "42c00964-67d8-4ec8-8883-dcb2be629585"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
